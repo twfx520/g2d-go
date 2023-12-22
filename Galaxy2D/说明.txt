@@ -1,0 +1,14 @@
+Galaxy2D Game Engine
+版权所有(c) 2005 沈明. 保留所有权利.
+
+主页地址: http://www.cnblogs.com/jianguhan/
+电子邮箱: jianguhan@126.com
+
+目录说明：
++------------------------------
+|--document    引擎文档
+|--engine      引擎目录
+  \inc             引擎头文件
+  \lib             引擎库文件
+|--samples     示例程序
+|--tools       工具软件
